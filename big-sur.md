@@ -30,7 +30,7 @@ These applications' developers may have more updated information on this subject
 - [ ] Insync - terminates on launch
 - [ ] Alfred 4 - testing skipped for now
 - [x] BetterTouchTool
-- [ ] Karabiner Elements
+- [ ] Karabiner Elements - reported not to work on GitHub repository due to changes in kexts. My testing confirms this.
 - [ ] Logitech Options
 - [ ] Google Chrome
 - [ ] Carbon Copy Cloner
