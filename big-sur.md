@@ -25,8 +25,8 @@ These applications' developers may have more updated information on this subject
 - [x] Notability (App Store) - worked but syncing large amounts of notes from iCloud seems to make it hang. Sometimes it makes progress, sometimes not and I have to force quit it.
 - [x] Debit & Credit (App Store)
 - [x] Visual Studio Code
-- [ ] VMware Fusion
-- [ ] Spotify
+- [ ] VMware Fusion - reported not to work by MacRumors Forums, but I have not tested myself. Suspected due to kext changes in Big Sur.
+- [x] Spotify
 - [ ] Insync - terminates on launch
 - [ ] Alfred 4
 - [ ] BetterTouchTool
