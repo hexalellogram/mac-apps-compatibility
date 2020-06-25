@@ -16,7 +16,7 @@ These applications' developers may have more updated information on this subject
 - [x] Telegram
 - [x] Caprine
 - [x] YakYak
-- [ ] Discord
+- [x] Discord
 - [ ] TickTick
 - [x] Microsoft Word (App Store version)
 - [x] Microsoft Excel (App Store version)
