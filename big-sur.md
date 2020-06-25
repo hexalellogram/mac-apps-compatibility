@@ -28,8 +28,8 @@ These applications' developers may have more updated information on this subject
 - [ ] VMware Fusion - reported not to work by MacRumors Forums, but I have not tested myself. Suspected due to kext changes in Big Sur.
 - [x] Spotify
 - [ ] Insync - terminates on launch
-- [ ] Alfred 4
-- [ ] BetterTouchTool
+- [ ] Alfred 4 - testing skipped for now
+- [x] BetterTouchTool
 - [ ] Karabiner Elements
 - [ ] Logitech Options
 - [ ] Google Chrome
