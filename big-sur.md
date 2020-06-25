@@ -31,7 +31,7 @@ These applications' developers may have more updated information on this subject
 - [ ] Alfred 4 - testing skipped for now
 - [x] BetterTouchTool
 - [ ] Karabiner Elements - reported not to work on GitHub repository due to changes in kexts. My testing confirms this.
-- [ ] Logitech Options
+- [x] Logitech Options
 - [ ] Google Chrome
 - [ ] Carbon Copy Cloner
 - [ ] GPG Suite
