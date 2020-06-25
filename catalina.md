@@ -5,6 +5,10 @@ I do not take legal responsibility for any of these assesments of compatibility,
 My usage may not be the same as your usage, and so I may have missed certain items that you may notice.
 These applications' developers may have more updated information on this subject than me.
 
+## Homebrew
+
+- [x] Homebrew
+
 ## Core Applications
 
 - [x] Microsoft Edge
