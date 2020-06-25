@@ -7,7 +7,7 @@ These applications' developers may have more updated information on this subject
 
 ## Homebrew
 
-- [ ] Homebrew
+- [ ] Homebrew - currently broken due to lack of command line developer tools provided by Apple for Big Sur
 
 ## Core Applications
 
