@@ -37,6 +37,7 @@ These applications' developers may have more updated information on this subject
 - [ ] GPG Suite
 - [x] Amphetamine (App Store)
 - [ ] Zoom
+- [ ] Java 11 JDK
 
 ## Other Applications
 
