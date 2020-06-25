@@ -35,7 +35,7 @@ These applications' developers may have more updated information on this subject
 - [ ] Google Chrome
 - [ ] Carbon Copy Cloner
 - [ ] GPG Suite
-- [ ] Amphetamine (App Store)
+- [x] Amphetamine (App Store)
 - [ ] Zoom
 
 ## Other Applications
