@@ -13,7 +13,7 @@ These applications' developers may have more updated information on this subject
 
 - [x] Microsoft Edge
 - [x] 1Password
-- [ ] Telegram
+- [x] Telegram
 - [ ] Caprine
 - [ ] YakYak
 - [ ] Discord
