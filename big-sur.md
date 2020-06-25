@@ -11,7 +11,7 @@ These applications' developers may have more updated information on this subject
 
 ## Core Applications
 
-- [ ] Microsoft Edge
+- [x] Microsoft Edge
 - [ ] 1Password
 - [ ] Telegram
 - [ ] Caprine
