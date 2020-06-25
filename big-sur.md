@@ -27,7 +27,7 @@ These applications' developers may have more updated information on this subject
 - [x] Visual Studio Code
 - [ ] VMware Fusion
 - [ ] Spotify
-- [ ] Insync
+- [ ] Insync - terminates on launch
 - [ ] Alfred 4
 - [ ] BetterTouchTool
 - [ ] Karabiner Elements
