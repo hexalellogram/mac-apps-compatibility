@@ -7,76 +7,76 @@ These applications' developers
 
 ## Core Applications
 
-- [ ] Microsoft Edge
-- [ ] 1Password
-- [ ] Telegram
-- [ ] Caprine
-- [ ] YakYak
-- [ ] Discord
-- [ ] TickTick
-- [ ] Microsoft Word (App Store version)
-- [ ] Microsoft Excel (App Store version)
-- [ ] Microsoft PowerPoint (App Store version)
-- [ ] Microsoft OneNote (App Store version)
-- [ ] Notability (App Store)
-- [ ] Debit & Credit (App Store)
-- [ ] Visual Studio Code
-- [ ] VMware Fusion
-- [ ] Spotify
-- [ ] Insync
-- [ ] Alfred 4
-- [ ] BetterTouchTool
-- [ ] Karabiner Elements
-- [ ] Logitech Options
-- [ ] Google Chrome
-- [ ] Carbon Copy Cloner
-- [ ] GPG Suite
-- [ ] Amphetamine (App Store)
-- [ ] Zoom
+- [x] Microsoft Edge
+- [x] 1Password
+- [x] Telegram
+- [x] Caprine
+- [x] YakYak
+- [x] Discord
+- [x] TickTick
+- [x] Microsoft Word (App Store version)
+- [x] Microsoft Excel (App Store version)
+- [x] Microsoft PowerPoint (App Store version)
+- [x] Microsoft OneNote (App Store version)
+- [x] Notability (App Store)
+- [x] Debit & Credit (App Store)
+- [x] Visual Studio Code
+- [x] VMware Fusion
+- [x] Spotify
+- [x] Insync
+- [x] Alfred 4
+- [x] BetterTouchTool
+- [x] Karabiner Elements
+- [x] Logitech Options
+- [x] Google Chrome
+- [x] Carbon Copy Cloner
+- [x] GPG Suite
+- [x] Amphetamine (App Store)
+- [x] Zoom
 
 ## Other Applications
 
-- [ ] HandBrake
-- [ ] Windscribe
-- [ ] Bartender
-- [ ] MacTeX
-- [ ] Minecraft
-- [ ] JDownloader2
-- [ ] RescueTime
-- [ ] Keka
-- [ ] GIMP
-- [ ] Itsycal
-- [ ] Dropbox
-- [ ] Android File Transfer
-- [ ] IINA
-- [ ] Notion
-- [ ] OneDrive
-- [ ] Hex Fiend (App Store version)
-- [ ] Macs Fan Control
-- [ ] MakeMKV
-- [ ] VNC Server
-- [ ] MEGASync
-- [ ] Cascadea (App Store)
-- [ ] Transmission
-- [ ] Suspicious Package
-- [ ] Docker Desktop
-- [ ] Tuxera NTFS
-- [ ] Intel Power Gadget
-- [ ] YAC Reader
-- [ ] IntelliJ IDEA
-- [ ] Dark Reader for Safari
-- [ ] Logitech Camera Settings
-- [ ] Tunnelblick
-- [ ] NordVPN IKE (App Store)
-- [ ] The Unarchiver
-- [ ] MonitorControl
-- [ ] Skype
-- [ ] Android Studio
-- [ ] Facebook Messenger
-- [ ] GitKraken
-- [ ] AppCleaner
-- [ ] Firefox
-- [ ] Postman
-- [ ] Adguard for Safari
-- [ ] VNC Viewer
-- [ ] MongoDB Compass
+- [x] HandBrake
+- [x] Windscribe
+- [x] Bartender
+- [x] MacTeX
+- [x] Minecraft
+- [x] JDownloader2
+- [x] RescueTime
+- [x] Keka
+- [x] GIMP
+- [x] Itsycal
+- [x] Dropbox
+- [x] Android File Transfer
+- [x] IINA
+- [x] Notion
+- [x] OneDrive
+- [x] Hex Fiend (App Store version)
+- [x] Macs Fan Control
+- [x] MakeMKV
+- [x] VNC Server
+- [x] MEGASync
+- [x] Cascadea (App Store)
+- [x] Transmission
+- [x] Suspicious Package
+- [x] Docker Desktop
+- [x] Tuxera NTFS
+- [x] Intel Power Gadget
+- [x] YAC Reader
+- [x] IntelliJ IDEA
+- [x] Dark Reader for Safari
+- [x] Logitech Camera Settings
+- [x] Tunnelblick
+- [x] NordVPN IKE (App Store)
+- [x] The Unarchiver
+- [x] MonitorControl
+- [x] Skype
+- [x] Android Studio
+- [x] Facebook Messenger
+- [x] GitKraken
+- [x] AppCleaner
+- [x] Firefox
+- [x] Postman
+- [x] Adguard for Safari
+- [x] VNC Viewer
+- [x] MongoDB Compass
