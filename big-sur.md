@@ -7,7 +7,7 @@ These applications' developers may have more updated information on this subject
 
 ## Homebrew
 
-- [ ] Homebrew - currently broken due to lack of command line developer tools provided by Apple for Big Sur
+- [x] Homebrew - works but developer tools need to be installed beforehand from the Apple Developer More Downloads page instead of through `xcode-select --install`
 
 ## Core Applications
 
