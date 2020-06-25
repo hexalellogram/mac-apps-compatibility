@@ -3,7 +3,7 @@
 Note that most, if not all, compatibility assessments are my own.
 I do not take legal responsibility for any of these assesments of compatibility, nor do I guarantee that my assessments are accurate.
 My usage may not be the same as your usage, and so I may have missed certain items that you may notice.
-These applications' developers
+These applications' developers may have more updated information on this subject than me.
 
 ## Core Applications
 
