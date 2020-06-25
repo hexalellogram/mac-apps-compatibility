@@ -17,7 +17,7 @@ These applications' developers may have more updated information on this subject
 - [x] Caprine
 - [x] YakYak
 - [x] Discord
-- [ ] TickTick
+- [x] TickTick
 - [x] Microsoft Word (App Store version)
 - [x] Microsoft Excel (App Store version)
 - [x] Microsoft PowerPoint (App Store version)
