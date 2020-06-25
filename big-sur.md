@@ -32,7 +32,7 @@ These applications' developers may have more updated information on this subject
 - [x] BetterTouchTool
 - [ ] Karabiner Elements - reported not to work on GitHub repository due to changes in kexts. My testing confirms this.
 - [x] Logitech Options
-- [ ] Google Chrome
+- [x] Google Chrome
 - [ ] Carbon Copy Cloner
 - [ ] GPG Suite
 - [x] Amphetamine (App Store)
