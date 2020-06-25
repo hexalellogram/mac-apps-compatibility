@@ -22,7 +22,7 @@ These applications' developers may have more updated information on this subject
 - [x] Microsoft Excel (App Store version)
 - [x] Microsoft PowerPoint (App Store version)
 - [x] Microsoft OneNote (App Store version)
-- [ ] Notability (App Store)
+- [x] Notability (App Store)
 - [x] Debit & Credit (App Store)
 - [ ] Visual Studio Code
 - [ ] VMware Fusion
