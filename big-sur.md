@@ -34,7 +34,7 @@ These applications' developers may have more updated information on this subject
 - [x] Logitech Options
 - [x] Google Chrome
 - [ ] Carbon Copy Cloner - launches but file copy tasks do not copy over the files that have changed
-- [ ] GPG Suite
+- [x] GPG Suite
 - [x] Amphetamine (App Store)
 - [ ] Zoom
 - [ ] Java 11 JDK
