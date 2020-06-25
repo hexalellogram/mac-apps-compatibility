@@ -68,7 +68,7 @@ These applications' developers may have more updated information on this subject
 - [ ] Intel Power Gadget
 - [ ] YAC Reader
 - [ ] IntelliJ IDEA
-- [ ] Dark Reader for Safari
+- [ ] Dark Reader for Safari (App Store version)
 - [ ] Logitech Camera Settings
 - [ ] Tunnelblick
 - [ ] NordVPN IKE (App Store)
@@ -76,11 +76,11 @@ These applications' developers may have more updated information on this subject
 - [ ] MonitorControl
 - [ ] Skype
 - [ ] Android Studio
-- [ ] Facebook Messenger
+- [ ] Facebook Messenger (App Store version)
 - [ ] GitKraken
 - [ ] AppCleaner
 - [ ] Firefox
 - [ ] Postman
-- [ ] Adguard for Safari
+- [ ] Adguard for Safari (App Store version)
 - [ ] VNC Viewer
 - [ ] MongoDB Compass
