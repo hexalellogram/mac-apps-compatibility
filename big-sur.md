@@ -15,7 +15,7 @@ These applications' developers may have more updated information on this subject
 - [x] 1Password
 - [x] Telegram
 - [x] Caprine
-- [ ] YakYak
+- [x] YakYak
 - [ ] Discord
 - [ ] TickTick
 - [x] Microsoft Word (App Store version)
