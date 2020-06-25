@@ -24,7 +24,7 @@ These applications' developers may have more updated information on this subject
 - [x] Microsoft OneNote (App Store version)
 - [x] Notability (App Store) - worked but syncing large amounts of notes from iCloud seems to make it hang. Sometimes it makes progress, sometimes not and I have to force quit it.
 - [x] Debit & Credit (App Store)
-- [ ] Visual Studio Code
+- [x] Visual Studio Code
 - [ ] VMware Fusion
 - [ ] Spotify
 - [ ] Insync
