@@ -23,7 +23,7 @@ These applications' developers may have more updated information on this subject
 - [ ] Microsoft PowerPoint (App Store version)
 - [ ] Microsoft OneNote (App Store version)
 - [ ] Notability (App Store)
-- [ ] Debit & Credit (App Store)
+- [x] Debit & Credit (App Store)
 - [ ] Visual Studio Code
 - [ ] VMware Fusion
 - [ ] Spotify
