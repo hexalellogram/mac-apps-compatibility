@@ -12,7 +12,7 @@ These applications' developers may have more updated information on this subject
 ## Core Applications
 
 - [x] Microsoft Edge
-- [ ] 1Password
+- [x] 1Password
 - [ ] Telegram
 - [ ] Caprine
 - [ ] YakYak
