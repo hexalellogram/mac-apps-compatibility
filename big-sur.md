@@ -33,7 +33,7 @@ These applications' developers may have more updated information on this subject
 - [ ] Karabiner Elements - reported not to work on GitHub repository due to changes in kexts. My testing confirms this.
 - [x] Logitech Options
 - [x] Google Chrome
-- [ ] Carbon Copy Cloner - launches but file copy tasks do not succeed
+- [ ] Carbon Copy Cloner - launches but file copy tasks do not copy over the files that have changed
 - [ ] GPG Suite
 - [x] Amphetamine (App Store)
 - [ ] Zoom
