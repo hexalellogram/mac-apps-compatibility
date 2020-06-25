@@ -18,10 +18,10 @@ These applications' developers may have more updated information on this subject
 - [ ] YakYak
 - [ ] Discord
 - [ ] TickTick
-- [ ] Microsoft Word (App Store version)
-- [ ] Microsoft Excel (App Store version)
-- [ ] Microsoft PowerPoint (App Store version)
-- [ ] Microsoft OneNote (App Store version)
+- [x] Microsoft Word (App Store version)
+- [x] Microsoft Excel (App Store version)
+- [x] Microsoft PowerPoint (App Store version)
+- [x] Microsoft OneNote (App Store version)
 - [ ] Notability (App Store)
 - [x] Debit & Credit (App Store)
 - [ ] Visual Studio Code
