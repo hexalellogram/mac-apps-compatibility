@@ -36,9 +36,9 @@ These applications' developers may have more updated information on this subject
 - [ ] Carbon Copy Cloner - launches but file copy tasks do not copy over the files that have changed
 - [x] GPG Suite
 - [x] Amphetamine (App Store)
-- [ ] Zoom
+- [ ] Zoom - reported broken by MacRumors Forums, not tested yet
 - [x] Java 11 JDK - works but you need to do the link that allows the system Java wrappers to find the JDK (explained at the end of the `brew` install messages when you install the JDK by running `brew install java11`).
-- [ ] Dropbox - reported broken by MacRumors Forums
+- [ ] Dropbox - reported broken by MacRumors Forums, not tested yet
 - [ ] MEGASync
 - [ ] OneDrive
 
