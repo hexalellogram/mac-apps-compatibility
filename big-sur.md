@@ -53,7 +53,7 @@ These applications' developers may have more updated information on this subject
 - [x] JDownloader
 - [x] RescueTime
 - [x] Keka - works, including helper utility to set Keka as default extraction application
-- [ ] GIMP
+- [ ] GIMP - asks for Developer Requisition Access but afterwards is unresponsive and fails to launch
 - [ ] Itsycal
 - [ ] Android File Transfer
 - [ ] IINA
