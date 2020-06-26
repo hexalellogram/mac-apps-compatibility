@@ -60,7 +60,7 @@ These applications' developers may have more updated information on this subject
 - [x] Notion
 - [x] Hex Fiend (App Store version)
 - [x] Macs Fan Control - did not test setting fan profiles as I do not have the paid version
-- [ ] MakeMKV
+- [x] MakeMKV - launche, was unable to test any ripping functionality at the moment
 - [ ] VNC Server
 - [ ] Cascadea (App Store)
 - [ ] Transmission
