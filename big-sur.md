@@ -74,3 +74,7 @@ These applications' developers may have more updated information on this subject
 - [x] Skype - did not test calling, low priority to do so since Skype is not critically important to me
 - [x] AppCleaner
 - [x] Firefox
+
+## Printer Driver
+
+- [x] Brother MFC-L2700DW - must be downloaded manually from [Brother website](https://support.brother.com/g/b/downloadlist.aspx?c=us&lang=en&prod=mfcl2700dw_us_eu_as&os=10060). Download both the Printer Driver and Scanner Driver.
