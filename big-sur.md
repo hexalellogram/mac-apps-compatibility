@@ -67,7 +67,7 @@ These applications' developers may have more updated information on this subject
 - [x] YAC Reader
 - [x] IntelliJ IDEA - only tested barebones functionality - making a project, editing `.java` files,  compiling, and running
 - [x] Logitech Camera Settings
-- [ ] Tunnelblick
+- [x] Tunnelblick Beta - both my full and split UDP VPN tunnels appear to work
 - [x] NordVPN IKE (App Store)
 - [ ] The Unarchiver
 - [ ] MonitorControl
