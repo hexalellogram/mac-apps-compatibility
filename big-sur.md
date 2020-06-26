@@ -38,6 +38,7 @@ These applications' developers may have more updated information on this subject
 - [x] Amphetamine (App Store)
 - [ ] Zoom
 - [x] Java 11 JDK - works but you need to do the link that allows the system Java wrappers to find the JDK (explained at the end of the `brew` install messages when you install the JDK by running `brew install java11`).
+- [ ] Dropbox - reported broken by MacRumors Forums
 
 ## Other Applications
 
@@ -52,7 +53,6 @@ These applications' developers may have more updated information on this subject
 - [x] Keka - works, including helper utility to set Keka as default extraction application
 - [ ] GIMP
 - [ ] Itsycal
-- [ ] Dropbox
 - [ ] Android File Transfer
 - [ ] IINA
 - [ ] Notion
