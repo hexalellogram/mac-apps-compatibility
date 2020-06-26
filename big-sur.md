@@ -60,7 +60,7 @@ These applications' developers may have more updated information on this subject
 - [x] Notion
 - [x] Hex Fiend (App Store version)
 - [x] Macs Fan Control - did not test setting fan profiles as I do not have the paid version
-- [x] MakeMKV - launche, was unable to test any ripping functionality at the moment
+- [x] MakeMKV - launches, was unable to test any ripping functionality at the moment
 - [ ] Transmission
 - [ ] Tuxera NTFS
 - [ ] Intel Power Gadget
