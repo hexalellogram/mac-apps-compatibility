@@ -48,7 +48,7 @@ These applications' developers may have more updated information on this subject
 - [x] TeX Live Utility
 - [x] Minecraft - launches, did not thoroughly test gameplay
 - [x] JDownloader
-- [ ] RescueTime
+- [x] RescueTime
 - [ ] Keka
 - [ ] GIMP
 - [ ] Itsycal
