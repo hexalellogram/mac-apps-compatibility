@@ -62,7 +62,7 @@ These applications' developers may have more updated information on this subject
 - [x] Macs Fan Control - did not test setting fan profiles as I do not have the paid version
 - [x] MakeMKV - launches, was unable to test any ripping functionality at the moment
 - [x] Transmission
-- [ ] Tuxera NTFS
+- [ ] Tuxera NTFS - does not work due to kernel extension changes in macOS Big Sur
 - [ ] Intel Power Gadget
 - [ ] YAC Reader
 - [ ] IntelliJ IDEA
