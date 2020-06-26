@@ -63,7 +63,7 @@ These applications' developers may have more updated information on this subject
 - [x] MakeMKV - launches, was unable to test any ripping functionality at the moment
 - [x] Transmission
 - [ ] Tuxera NTFS - unable to activate due to "Invalid preferences file" in System Preferences preference pane, therefore cannot mount and unmount NTFS. Issue is present whether installed through `brew` or without `brew`.
-- [ ] Intel Power Gadget
+- [x] Intel Power Gadget - works after rebooting to enable the kernel extension for the first time. Unknown if the kernel extension is only working now because Big Sur is still a beta, or if it will continue to work after the public release.
 - [ ] YAC Reader
 - [ ] IntelliJ IDEA
 - [ ] Logitech Camera Settings
