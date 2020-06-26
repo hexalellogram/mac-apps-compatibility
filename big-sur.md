@@ -28,7 +28,7 @@ These applications' developers may have more updated information on this subject
 - [ ] VMware Fusion - reported not to work by MacRumors Forums, but I have not tested myself. Suspected due to kext changes in Big Sur.
 - [x] Spotify
 - [ ] Insync - terminates on launch
-- [ ] Alfred 4 - testing skipped for now
+- [ ] Alfred 4 - not tested yet
 - [x] BetterTouchTool
 - [ ] Karabiner Elements - reported not to work on GitHub repository due to changes in kexts. My testing confirms this.
 - [x] Logitech Options
@@ -39,8 +39,8 @@ These applications' developers may have more updated information on this subject
 - [ ] Zoom - reported broken by MacRumors Forums, not tested yet
 - [x] Java 11 JDK - works but you need to do the link that allows the system Java wrappers to find the JDK (explained at the end of the `brew` install messages when you install the JDK by running `brew install java11`).
 - [ ] Dropbox - reported broken by MacRumors Forums, not tested yet
-- [ ] MEGASync
-- [ ] OneDrive
+- [ ] MEGASync - not tested yet
+- [ ] OneDrive - not tested yet
 
 ## Other Applications
 
@@ -61,26 +61,18 @@ These applications' developers may have more updated information on this subject
 - [x] Hex Fiend (App Store version)
 - [x] Macs Fan Control - did not test setting fan profiles as I do not have the paid version
 - [x] MakeMKV - launche, was unable to test any ripping functionality at the moment
-- [ ] Cascadea (App Store)
 - [ ] Transmission
-- [ ] Suspicious Package
-- [ ] Docker Desktop
 - [ ] Tuxera NTFS
 - [ ] Intel Power Gadget
 - [ ] YAC Reader
 - [ ] IntelliJ IDEA
-- [ ] Dark Reader for Safari (App Store version)
 - [ ] Logitech Camera Settings
 - [ ] Tunnelblick
 - [ ] NordVPN IKE (App Store)
 - [ ] The Unarchiver
 - [ ] MonitorControl
 - [ ] Skype
-- [ ] Android Studio
 - [ ] Facebook Messenger (App Store version)
 - [ ] GitKraken
 - [ ] AppCleaner
 - [ ] Firefox
-- [ ] Postman
-- [ ] Adguard for Safari (App Store version)
-- [ ] MongoDB Compass
