@@ -54,7 +54,7 @@ These applications' developers may have more updated information on this subject
 - [x] RescueTime
 - [x] Keka - works, including helper utility to set Keka as default extraction application
 - [ ] GIMP - asks for Developer Requisition Access but afterwards is unresponsive and fails to launch
-- [ ] Itsycal
+- [x] Itsycal - works, but cannot remove built in macOS menu bar clock due to macOS Big Sur bug
 - [ ] Android File Transfer
 - [ ] IINA
 - [ ] Notion
