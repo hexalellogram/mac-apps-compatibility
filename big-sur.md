@@ -68,7 +68,7 @@ These applications' developers may have more updated information on this subject
 - [x] IntelliJ IDEA - only tested barebones functionality - making a project, editing `.java` files,  compiling, and running
 - [x] Logitech Camera Settings
 - [ ] Tunnelblick
-- [ ] NordVPN IKE (App Store)
+- [x] NordVPN IKE (App Store)
 - [ ] The Unarchiver
 - [ ] MonitorControl
 - [ ] Skype
