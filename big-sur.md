@@ -28,7 +28,7 @@ These applications' developers may have more updated information on this subject
 - [ ] VMware Fusion - reported not to work by MacRumors Forums, but I have not tested myself. Suspected due to kext changes in Big Sur.
 - [x] Spotify
 - [ ] Insync - terminates on launch
-- [ ] Alfred 4 - not tested yet since my preferences file is stored in Google Drive
+- [x] Alfred 4 - works but I can't sync preferences since Insync is broken
 - [x] BetterTouchTool
 - [ ] Karabiner Elements - reported not to work on GitHub repository due to changes in kexts. My testing confirms this.
 - [x] Logitech Options
