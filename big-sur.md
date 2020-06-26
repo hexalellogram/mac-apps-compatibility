@@ -58,7 +58,7 @@ These applications' developers may have more updated information on this subject
 - [x] Android File Transfer - works after manually granting Full Disk Access in Security & Privacy preference pane (the application will not prompt for access)
 - [x] IINA
 - [x] Notion
-- [ ] Hex Fiend (App Store version)
+- [x] Hex Fiend (App Store version)
 - [ ] Macs Fan Control
 - [ ] MakeMKV
 - [ ] VNC Server
