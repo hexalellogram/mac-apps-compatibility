@@ -61,7 +61,7 @@ These applications' developers may have more updated information on this subject
 - [x] Hex Fiend (App Store version)
 - [x] Macs Fan Control - did not test setting fan profiles as I do not have the paid version
 - [x] MakeMKV - launches, was unable to test any ripping functionality at the moment
-- [ ] Transmission
+- [x] Transmission
 - [ ] Tuxera NTFS
 - [ ] Intel Power Gadget
 - [ ] YAC Reader
