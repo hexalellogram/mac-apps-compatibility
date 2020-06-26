@@ -70,7 +70,7 @@ These applications' developers may have more updated information on this subject
 - [x] Tunnelblick Beta - both my full and split UDP VPN tunnels appear to work
 - [x] NordVPN IKE (App Store)
 - [x] The Unarchiver
-- [ ] MonitorControl
+- [x] MonitorControl - changing brightness via the menubar icon works, did not test keyboard shortcuts since Karabiner Elements is broken at the moment, which is necessary for my keyboard brightness shortcuts to work
 - [x] Skype - did not test calling, low priority to do so since Skype is not critically important to me
 - [x] AppCleaner
-- [ ] Firefox
+- [x] Firefox
