@@ -71,7 +71,7 @@ These applications' developers may have more updated information on this subject
 - [x] NordVPN IKE (App Store)
 - [x] The Unarchiver
 - [ ] MonitorControl
-- [ ] Skype
+- [x] Skype
 - [ ] Facebook Messenger (App Store version)
 - [ ] GitKraken
 - [ ] AppCleaner
