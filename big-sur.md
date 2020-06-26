@@ -59,7 +59,7 @@ These applications' developers may have more updated information on this subject
 - [x] IINA
 - [x] Notion
 - [x] Hex Fiend (App Store version)
-- [ ] Macs Fan Control
+- [x] Macs Fan Control - did not test setting fan profiles as I do not have the paid version
 - [ ] MakeMKV
 - [ ] VNC Server
 - [ ] Cascadea (App Store)
