@@ -33,7 +33,7 @@ These applications' developers may have more updated information on this subject
 - [ ] Karabiner Elements - reported not to work on GitHub repository due to changes in kexts. My testing confirms this.
 - [x] Logitech Options
 - [x] Google Chrome
-- [ ] Carbon Copy Cloner - launches but file copy tasks do not copy over the files that have changed
+- [x] Carbon Copy Cloner - latest beta works to back up data, enables data-only backups (clones are not bootable without installing macOS onto the backup), see [this Bombich help article](https://bombich.com/kb/ccc5/creating-and-restoring-data-only-backups) for more details
 - [x] GPG Suite
 - [x] Amphetamine (App Store)
 - [ ] Zoom - reported broken by MacRumors Forums, not tested yet
