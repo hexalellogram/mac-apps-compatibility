@@ -61,7 +61,6 @@ These applications' developers may have more updated information on this subject
 - [x] Hex Fiend (App Store version)
 - [x] Macs Fan Control - did not test setting fan profiles as I do not have the paid version
 - [x] MakeMKV - launche, was unable to test any ripping functionality at the moment
-- [ ] VNC Server
 - [ ] Cascadea (App Store)
 - [ ] Transmission
 - [ ] Suspicious Package
@@ -84,5 +83,4 @@ These applications' developers may have more updated information on this subject
 - [ ] Firefox
 - [ ] Postman
 - [ ] Adguard for Safari (App Store version)
-- [ ] VNC Viewer
 - [ ] MongoDB Compass
