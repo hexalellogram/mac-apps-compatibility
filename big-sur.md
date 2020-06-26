@@ -72,7 +72,5 @@ These applications' developers may have more updated information on this subject
 - [x] The Unarchiver
 - [ ] MonitorControl
 - [x] Skype
-- [ ] Facebook Messenger (App Store version)
-- [ ] GitKraken
 - [ ] AppCleaner
 - [ ] Firefox
