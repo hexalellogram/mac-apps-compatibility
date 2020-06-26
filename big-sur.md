@@ -41,7 +41,7 @@ These applications' developers may have more updated information on this subject
 
 ## Other Applications
 
-- [ ] HandBrake
+- [x] HandBrake - opens, did not test encoding since I do not have a file to test with at the moment
 - [ ] Windscribe
 - [ ] Bartender
 - [ ] MacTeX
