@@ -69,7 +69,7 @@ These applications' developers may have more updated information on this subject
 - [x] Logitech Camera Settings
 - [x] Tunnelblick Beta - both my full and split UDP VPN tunnels appear to work
 - [x] NordVPN IKE (App Store)
-- [ ] The Unarchiver
+- [x] The Unarchiver
 - [ ] MonitorControl
 - [ ] Skype
 - [ ] Facebook Messenger (App Store version)
