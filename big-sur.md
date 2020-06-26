@@ -27,13 +27,13 @@ These applications' developers may have more updated information on this subject
 - [x] Visual Studio Code
 - [ ] VMware Fusion - reported not to work by MacRumors Forums, but I have not tested myself. Suspected due to kext changes in Big Sur.
 - [x] Spotify
-- [ ] Insync - terminates on launch
+- [ ] Insync - terminates on launch. Bug reported on [Insync Forums](https://forums.insynchq.com/t/insync-fails-to-launch-on-macos-big-sur-developer-beta/16186).
 - [x] Alfred 4 - works but I can't sync preferences since Insync is broken
 - [x] BetterTouchTool
 - [ ] Karabiner Elements - reported not to work on GitHub repository due to changes in kexts. My testing confirms this.
 - [x] Logitech Options
 - [x] Google Chrome
-- [x] Carbon Copy Cloner - latest beta works to back up data, enables data-only backups (clones are not bootable without installing macOS onto the backup), see [this Bombich help article](https://bombich.com/kb/ccc5/creating-and-restoring-data-only-backups) for more details
+- [x] Carbon Copy Cloner - latest beta works to back up data, enables data-only backups (clones are not bootable without installing macOS onto the backup), see [this Bombich help article](https://bombich.com/kb/ccc5/creating-and-restoring-data-only-backups) for more details.
 - [x] GPG Suite
 - [x] Amphetamine (App Store)
 - [ ] Zoom - reported broken by MacRumors Forums, not tested yet
