@@ -72,5 +72,5 @@ These applications' developers may have more updated information on this subject
 - [x] The Unarchiver
 - [ ] MonitorControl
 - [x] Skype - did not test calling, low priority to do so since Skype is not critically important to me
-- [ ] AppCleaner
+- [x] AppCleaner
 - [ ] Firefox
