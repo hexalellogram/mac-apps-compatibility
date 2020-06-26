@@ -49,7 +49,7 @@ These applications' developers may have more updated information on this subject
 - [x] Minecraft - launches, did not thoroughly test gameplay
 - [x] JDownloader
 - [x] RescueTime
-- [ ] Keka
+- [x] Keka - works, including helper utility to set Keka as default extraction application
 - [ ] GIMP
 - [ ] Itsycal
 - [ ] Dropbox
