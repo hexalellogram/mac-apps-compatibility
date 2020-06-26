@@ -44,7 +44,8 @@ These applications' developers may have more updated information on this subject
 - [x] HandBrake - opens, did not test encoding since I do not have a file to test with at the moment
 - [x] Windscribe
 - [ ] Bartender - reportedly broken according to MacRumors Forums, have not tested myself yet
-- [ ] MacTeX
+- [x] MacTeX
+- [x] TeX Live Utility
 - [ ] Minecraft
 - [ ] JDownloader2
 - [ ] RescueTime
