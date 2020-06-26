@@ -42,7 +42,7 @@ These applications' developers may have more updated information on this subject
 ## Other Applications
 
 - [x] HandBrake - opens, did not test encoding since I do not have a file to test with at the moment
-- [ ] Windscribe
+- [x] Windscribe
 - [ ] Bartender
 - [ ] MacTeX
 - [ ] Minecraft
