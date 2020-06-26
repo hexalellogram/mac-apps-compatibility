@@ -47,7 +47,7 @@ These applications' developers may have more updated information on this subject
 - [x] MacTeX
 - [x] TeX Live Utility
 - [x] Minecraft - launches, did not thoroughly test gameplay
-- [ ] JDownloader2
+- [x] JDownloader2
 - [ ] RescueTime
 - [ ] Keka
 - [ ] GIMP
