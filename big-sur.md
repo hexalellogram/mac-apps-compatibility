@@ -46,7 +46,7 @@ These applications' developers may have more updated information on this subject
 - [ ] Bartender - reportedly broken according to MacRumors Forums, have not tested myself yet
 - [x] MacTeX
 - [x] TeX Live Utility
-- [ ] Minecraft
+- [x] Minecraft - launches, did not thoroughly test gameplay
 - [ ] JDownloader2
 - [ ] RescueTime
 - [ ] Keka
