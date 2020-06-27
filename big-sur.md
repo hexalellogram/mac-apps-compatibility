@@ -40,7 +40,7 @@ These applications' developers may have more updated information on this subject
 - [x] Java 11 JDK - works but you need to do the link that allows the system Java wrappers to find the JDK (explained at the end of the `brew` install messages when you install the JDK by running `brew install java11`).
 - [x] Dropbox - beta version 101.3.422 is working on Big Sur, stable is apparently broken. Beta version can be obtained [here](https://www.dropboxforum.com/t5/Dropbox-desktop-client-builds/bd-p/101003016) or with the cask `dropbox-beta`.
 - [x] MEGASync
-- [x] OneDrive (App Store version)
+- [x] OneDrive (App Store version) - first initial sync of files is laggy at best and unresponsive at worst until it is done, but that is just OneDrive and not Big Sur (the issue is present in Catalina as well and may just be related to how large my OneDrive is and how many files are in it)
 
 ## Other Applications
 
