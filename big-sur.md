@@ -36,7 +36,7 @@ These applications' developers may have more updated information on this subject
 - [x] Carbon Copy Cloner - latest beta works to back up data, enables data-only backups (clones are not bootable without installing macOS onto the backup), see [this Bombich help article](https://bombich.com/kb/ccc5/creating-and-restoring-data-only-backups) for more details.
 - [x] GPG Suite
 - [x] Amphetamine (App Store)
-- [ ] Zoom - reported broken by MacRumors Forums, not tested yet
+- [ ] Zoom - reported broken by MacRumors Forums, my testing confirms this. Extremely slow and buggy with many graphical issues in UI. Sometimes Zoom seems as if it is unable to access the webcam, an issue that I have also sometimes found with other camera-based applications.
 - [x] Java 11 JDK - works but you need to do the link that allows the system Java wrappers to find the JDK (explained at the end of the `brew` install messages when you install the JDK by running `brew install java11`).
 - [ ] Dropbox - reported broken by MacRumors Forums, not tested yet
 - [ ] MEGASync - not tested yet
@@ -67,7 +67,7 @@ These applications' developers may have more updated information on this subject
 - [x] YAC Reader
 - [x] IntelliJ IDEA - only tested barebones functionality - making a project, editing `.java` files,  compiling, and running
 - [x] Logitech Camera Settings
-- [x] Tunnelblick Beta - both my full and split UDP VPN tunnels appear to work
+- [x] Tunnelblick Beta - both my full and split UDP VPN tunnels appear to work. The application complains that the `/tmp/` folder is insecure but otherwise appears it appears as though it continues to work.
 - [x] NordVPN IKE (App Store)
 - [x] The Unarchiver
 - [x] MonitorControl - changing brightness via the menubar icon works, did not test keyboard shortcuts since Karabiner Elements is broken at the moment, which is necessary for my keyboard brightness shortcuts to work
