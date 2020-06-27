@@ -38,9 +38,9 @@ These applications' developers may have more updated information on this subject
 - [x] Amphetamine (App Store)
 - [ ] Zoom - reported broken by MacRumors Forums, my testing confirms this. Extremely slow and buggy with many graphical issues in UI. Sometimes Zoom seems as if it is unable to access the webcam, an issue that I have also sometimes found with other camera-based applications. Logging out and back in appears to fix that particular problem. Almost all icons in the app do not appear, with very few exceptions. However, the basic functionality (screen sharing and video and audio) all appear to work, as long as the video figures itself out.
 - [x] Java 11 JDK - works but you need to do the link that allows the system Java wrappers to find the JDK (explained at the end of the `brew` install messages when you install the JDK by running `brew install java11`).
-- [ ] Dropbox - reported broken by MacRumors Forums, not tested yet
-- [ ] MEGASync - not tested yet
-- [ ] OneDrive - not tested yet
+- [x] Dropbox - beta version 101.3.422 is working on Big Sur, stable is apparently broken. Beta version can be obtained [here](https://www.dropboxforum.com/t5/Dropbox-desktop-client-builds/bd-p/101003016) or with the cask `dropbox-beta`.
+- [x] MEGASync
+- [x] OneDrive (App Store version)
 
 ## Other Applications
 
@@ -68,7 +68,7 @@ These applications' developers may have more updated information on this subject
 - [x] IntelliJ IDEA - only tested barebones functionality - making a project, editing `.java` files,  compiling, and running
 - [x] Logitech Camera Settings
 - [x] Tunnelblick Beta - both my full and split UDP VPN tunnels appear to work. The application complains that the `/tmp/` folder is insecure but otherwise appears it appears as though it continues to work.
-- [x] NordVPN IKE (App Store)
+- [x] NordVPN IKE (App Store version)
 - [x] The Unarchiver
 - [x] MonitorControl - changing brightness via the menubar icon works, did not test keyboard shortcuts since Karabiner Elements is broken at the moment, which is necessary for my keyboard brightness shortcuts to work
 - [x] Skype - did not test calling, low priority to do so since Skype is not critically important to me
