@@ -80,3 +80,20 @@ These applications' developers may have more updated information on this subject
 ## Printer Driver
 
 - [x] Brother MFC-L2700DW - must be downloaded manually from [Brother website](https://support.brother.com/g/b/downloadlist.aspx?c=us&lang=en&prod=mfcl2700dw_us_eu_as&os=10060). Download both the Printer Driver and Scanner Driver.
+
+## Command Line Utilities Installed via `brew`
+
+I only tested if these installed, in most cases. Any other testing I do will be indicated.
+
+- [x] `coreutils`
+- [x] `diff-so-fancy`
+- [x] `git`
+- [x] `mas`
+- [x] `neofetch` - installs and works but does not get status like memory and uptime
+- [x] `nmap`
+- [ ] `python`
+- [x] `speedtest-cli`
+- [x] `trash`
+- [x] `tree`
+- [x] `wget`
+- [x] `brew-cask-upgrade` tap (`brew tap buo/cask-upgrade` for `brew cu` command) - tested and appears to work, but I have not tested it when updates are available yet
