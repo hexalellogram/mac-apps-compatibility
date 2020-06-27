@@ -44,7 +44,7 @@ These applications' developers may have more updated information on this subject
 
 ## Other Applications
 
-- [x] HandBrake - opens, did not test encoding since I do not have a file to test with at the moment
+- [x] HandBrake - opens, encoding from `.mkv` works
 - [x] Windscribe
 - [ ] Bartender - reportedly broken according to MacRumors Forums, have not tested myself yet
 - [x] MacTeX
