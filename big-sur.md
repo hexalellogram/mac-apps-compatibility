@@ -91,7 +91,7 @@ I only tested if these installed, in most cases. Any other testing I do will be 
 - [x] `mas`
 - [x] `neofetch` - installs and works but does not get status like memory and uptime
 - [x] `nmap`
-- [ ] `python`
+- [x] `python`
 - [x] `speedtest-cli`
 - [x] `trash`
 - [x] `tree`
