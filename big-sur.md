@@ -74,6 +74,7 @@ These applications' developers may have more updated information on this subject
 - [x] Skype - did not test calling, low priority to do so since Skype is not critically important to me
 - [x] AppCleaner
 - [x] Firefox
+- [ ] Box Sync - terminates on launch (note that I do not use Box Sync on a daily basis so I will probably not revisit this)
 
 ## Printer Driver
 
