@@ -76,6 +76,7 @@ These applications' developers may have more updated information on this subject
 - [x] Firefox
 - [ ] Box Sync - terminates on launch (note that I do not use Box Sync on a daily basis so I will probably not revisit this)
 - [ ] Google Backup and Sync - terminates on launch
+- [ ] Cisco AnyConnect - not tested yet
 
 ## Printer Driver
 
