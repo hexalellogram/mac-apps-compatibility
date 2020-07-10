@@ -25,7 +25,7 @@ These applications' developers may have more updated information on this subject
 - [x] Notability (App Store) - worked but syncing large amounts of notes from iCloud seems to make it hang. Sometimes it makes progress, sometimes not and I have to force quit it.
 - [x] Debit & Credit (App Store)
 - [x] Visual Studio Code
-- [ ] VMware Fusion - reported not to work by MacRumors Forums, but I have not tested myself. Suspected due to kext changes in Big Sur.
+- [ ] VMware Fusion - ~~reported not to work by MacRumors Forums, but I have not tested myself. Suspected due to kext changes in Big Sur.~~ New [tech preview version](https://blogs.vmware.com/teamfusion/2020/07/fusion-big-sur-tech-preview.html) should work, have not tested it yet. Will update status once tested.
 - [x] Spotify
 - [ ] Insync - terminates on launch. Bug reported on [Insync Forums](https://forums.insynchq.com/t/insync-fails-to-launch-on-macos-big-sur-developer-beta/16186).
 - [x] Alfred 4 - works but I can't sync preferences since Insync is broken
