@@ -62,7 +62,7 @@ These applications' developers may have more updated information on this subject
 - [x] Macs Fan Control - did not test setting fan profiles as I do not have the paid version
 - [x] MakeMKV - launches, was unable to test any ripping functionality at the moment
 - [x] Transmission
-- [ ] Tuxera NTFS - As of Big Sur Beta 2, activation now works. It remains to be seen whether the filesystem functions or not.
+- [x] Tuxera NTFS - As of Big Sur Beta 2, activation now works. Filesystem appears to function after a reboot to enable kexts (without disabling System Integrity Protection).
 - [x] Intel Power Gadget - works after rebooting to enable the kernel extension for the first time. Unknown if the kernel extension is only working now because Big Sur is still a beta, or if it will continue to work after the public release.
 - [x] YAC Reader
 - [x] IntelliJ IDEA - only tested barebones functionality - making a project, editing `.java` files,  compiling, and running
