@@ -47,7 +47,7 @@ These applications' developers may have more updated information on this subject
 - [x] HandBrake - opens, encoding from `.mkv` works
 - [x] Windscribe
 - [ ] Bartender - launches and I am able to configure settings, but nothing actually works (no icons are hidden)
-- [x] MacTeX
+- [x] MacTeX (CLI Only)
 - [x] TeX Live Utility
 - [x] Minecraft - launches, did not thoroughly test gameplay
 - [x] JDownloader
