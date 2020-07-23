@@ -53,7 +53,7 @@ These applications' developers may have more updated information on this subject
 - [x] JDownloader
 - [x] RescueTime
 - [x] Keka - works, including helper utility to set Keka as default extraction application
-- [ ] GIMP - asks for Developer Requisition Access but afterwards is unresponsive and fails to launch
+- [ ] GIMP - segfaults on launch as of Big Sur Dev Beta 3
 - [x] Itsycal - works, but cannot remove built in macOS menu bar clock due to macOS Big Sur integrating the clock and Notification Center
 - [x] Android File Transfer - works after manually granting Full Disk Access in Security & Privacy preference pane (the application will not prompt for access)
 - [x] IINA
