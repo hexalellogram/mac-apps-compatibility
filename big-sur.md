@@ -1,4 +1,4 @@
-# Mac Apps Compatibility - macOS 11.0/10.16 Big Sur
+# Mac Apps Compatibility - macOS 11.0 Big Sur
 
 Note that most, if not all, compatibility assessments are my own.
 I do not take legal responsibility for any of these assesments of compatibility, nor do I guarantee that my assessments are accurate.
