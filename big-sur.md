@@ -34,7 +34,7 @@ These applications' developers may have more updated information on this subject
 - [x] Logitech Options
 - [x] Google Chrome
 - [x] Carbon Copy Cloner - latest beta works to back up data, enables data-only backups (clones are not bootable without installing macOS onto the backup), see [this Bombich help article](https://bombich.com/kb/ccc5/creating-and-restoring-data-only-backups) for more details.
-- [x] GPG Suite
+- [x] GPG Suite - preferences pane does not load but otherwise GPG Suite works as far as I can tell.
 - [x] Amphetamine (App Store)
 - [x] Zoom - Version 5.1.1 appears to work now. Graphical issues are fixed. Video is still wonky but that might be a macOS issue, not a Zoom issue, since I've seen similar issues with Photo Booth. This might actually be a "just me" issue since I'm now seeing it on Catalina as well.
 - [x] Java 11 JDK - works but you need to do the link that allows the system Java wrappers to find the JDK (explained at the end of the `brew` install messages when you install the JDK by running `brew install java11`).
