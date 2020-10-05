@@ -25,12 +25,12 @@ These applications' developers may have more updated information on this subject
 - [x] Notability (App Store) - worked but syncing large amounts of notes from iCloud seems to make it hang. Sometimes it makes progress, sometimes not and I have to force quit it.
 - [x] Debit & Credit (App Store)
 - [x] Visual Studio Code
-- [x] VMware Fusion - ~~reported not to work by MacRumors Forums, but I have not tested myself. Suspected due to kext changes in Big Sur.~~ New [tech preview version](https://blogs.vmware.com/teamfusion/2020/07/fusion-big-sur-tech-preview.html) appears to work.
+- [x] VMware Fusion - Newest version of Fusion (12) should work natively.
 - [x] Spotify
 - [x] Insync - ~~terminates on launch. Bug reported on [Insync Forums](https://forums.insynchq.com/t/insync-fails-to-launch-on-macos-big-sur-developer-beta/16186).~~ Works as of Insync 3.2.6 as far as I can tell
 - [x] Alfred 4 - works but I can't sync preferences since Insync is broken
 - [x] BetterTouchTool
-- [ ] Karabiner Elements - reported not to work on GitHub repository due to changes in kexts. My testing confirms this.
+- [ ] Karabiner Elements - New 13.0 version should work. Not marking as working until I test it.
 - [x] Logitech Options
 - [x] Google Chrome
 - [x] Carbon Copy Cloner - latest beta works to back up data, enables data-only backups (clones are not bootable without installing macOS onto the backup), see [this Bombich help article](https://bombich.com/kb/ccc5/creating-and-restoring-data-only-backups) for more details.
