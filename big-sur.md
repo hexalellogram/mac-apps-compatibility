@@ -76,7 +76,7 @@ These applications' developers may have more updated information on this subject
 - [x] Firefox
 - [ ] Box Sync - terminates on launch (note that I do not use Box Sync on a daily basis so I will probably not revisit this)
 - [ ] Google Backup and Sync - terminates on launch
-- [ ] Cisco AnyConnect - installs but the VPN itself does not seem to be working. Error during installation states "The VPN client agent was unable to create the client DNS plugin manager".
+- [x] Cisco AnyConnect - UCSD VPN connection at least appears to work, testing with Library content. Version 4.9.x.
 
 ## Printer Driver
 
