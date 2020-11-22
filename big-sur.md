@@ -1,7 +1,7 @@
 # Mac Apps Compatibility - macOS 11.0 Big Sur
 
 Note that most, if not all, compatibility assessments are my own.
-I do not take legal responsibility for any of these assesments of compatibility, nor do I guarantee that my assessments are accurate.
+I do not take legal responsibility for any of these assessments of compatibility, nor do I guarantee that my assessments are accurate.
 My usage may not be the same as your usage, and so I may have missed certain items that you may notice.
 These applications' developers may have more updated information on this subject than me.
 
@@ -34,7 +34,7 @@ These applications' developers may have more updated information on this subject
 - [x] Logitech Options
 - [x] Google Chrome
 - [x] Carbon Copy Cloner - latest beta works to back up data, enables data-only backups (clones are not bootable without installing macOS onto the backup), see [this Bombich help article](https://bombich.com/kb/ccc5/creating-and-restoring-data-only-backups) for more details.
-- [x] GPG Suite - preferences pane does not load but otherwise GPG Suite works as far as I can tell.
+- [x] GPG Suite - preference pane and all other portions appear to work, at least.
 - [x] Amphetamine (App Store)
 - [x] Zoom - Version 5.1.1 appears to work now. Graphical issues are fixed.
 - [x] Java 11 JDK - works but you need to do the link that allows the system Java wrappers to find the JDK (explained at the end of the `brew` install messages when you install the JDK by running `brew install java11`).
