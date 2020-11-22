@@ -22,23 +22,23 @@ These applications' developers may have more updated information on this subject
 - [x] Microsoft Excel (App Store version)
 - [x] Microsoft PowerPoint (App Store version)
 - [x] Microsoft OneNote (App Store version)
-- [x] Notability (App Store) - worked but syncing large amounts of notes from iCloud seems to make it hang. Sometimes it makes progress, sometimes not and I have to force quit it.
+- [x] Notability (App Store) - worked but syncing large amounts of notes from iCloud seems to make it hang. Sometimes it makes progress, sometimes not and I have to force quit it. Might not be a Big Sur-specific issue.
 - [x] Debit & Credit (App Store)
 - [x] Visual Studio Code
 - [x] VMware Fusion - Newest version of Fusion (12) should work natively.
 - [x] Spotify
-- [x] Insync - ~~terminates on launch. Bug reported on [Insync Forums](https://forums.insynchq.com/t/insync-fails-to-launch-on-macos-big-sur-developer-beta/16186).~~ Works as of Insync 3.2.6 as far as I can tell
-- [x] Alfred 4 - works but I can't sync preferences since Insync is broken
-- [x] BetterTouchTool
-- [ ] Karabiner Elements - New 13.0 version should work. Not marking as working until I test it.
+- [x] Insync - Works as of Insync 3.2.6 as far as I can tell
+- [x] Alfred 4 - works as far as I can tell
+- [x] BetterTouchTool - my custom keyboard shortcuts work, I do not use other parts of BTT so I haven't tested those
+- [x] Karabiner Elements - New 13.0 version works.
 - [x] Logitech Options
 - [x] Google Chrome
 - [x] Carbon Copy Cloner - latest beta works to back up data, enables data-only backups (clones are not bootable without installing macOS onto the backup), see [this Bombich help article](https://bombich.com/kb/ccc5/creating-and-restoring-data-only-backups) for more details.
 - [x] GPG Suite - preferences pane does not load but otherwise GPG Suite works as far as I can tell.
 - [x] Amphetamine (App Store)
-- [x] Zoom - Version 5.1.1 appears to work now. Graphical issues are fixed. Video is still wonky but that might be a macOS issue, not a Zoom issue, since I've seen similar issues with Photo Booth. This might actually be a "just me" issue since I'm now seeing it on Catalina as well.
+- [x] Zoom - Version 5.1.1 appears to work now. Graphical issues are fixed.
 - [x] Java 11 JDK - works but you need to do the link that allows the system Java wrappers to find the JDK (explained at the end of the `brew` install messages when you install the JDK by running `brew install java11`).
-- [x] Dropbox - beta version 101.3.422 is working on Big Sur, stable is apparently broken. Beta version can be obtained [here](https://www.dropboxforum.com/t5/Dropbox-desktop-client-builds/bd-p/101003016) or with the cask `dropbox-beta`.
+- [x] Dropbox - beta version 101.3.422 is working on Big Sur, stable ~~is apparently broken~~ now works. Beta version can be obtained [here](https://www.dropboxforum.com/t5/Dropbox-desktop-client-builds/bd-p/101003016) or with the cask `dropbox-beta`.
 - [x] MEGASync
 - [x] OneDrive (App Store version) - first initial sync of files is laggy at best and unresponsive at worst until it is done, but that is just OneDrive and not Big Sur (the issue is present in Catalina as well and may just be related to how large my OneDrive is and how many files are in it). Disabling the Files On Demand feature required a force quit of OneDrive to get files to start downloading but it appears to be working just fine now.
 
@@ -46,7 +46,7 @@ These applications' developers may have more updated information on this subject
 
 - [x] HandBrake - opens, encoding from `.mkv` works
 - [x] Windscribe
-- [ ] Bartender - launches and I am able to configure settings, but nothing actually works (no icons are hidden)
+- [ ] Bartender - new Bartender 4 beta works
 - [x] MacTeX (CLI Only)
 - [x] TeX Live Utility
 - [x] Minecraft - launches, did not thoroughly test gameplay
