@@ -67,7 +67,7 @@ These applications' developers may have more updated information on this subject
 - [x] YAC Reader
 - [x] IntelliJ IDEA - only tested barebones functionality - making a project, editing `.java` files,  compiling, and running
 - [x] Logitech Camera Settings
-- [x] Tunnelblick Beta - both my full and split UDP VPN tunnels appear to work. The application complains that the `/tmp/` folder is insecure but otherwise appears it appears as though it continues to work.
+- [x] Tunnelblick Beta - both my full and split UDP VPN tunnels appear to work.
 - [x] NordVPN IKE (App Store version)
 - [x] The Unarchiver
 - [x] MonitorControl - changing brightness via the menubar icon works, did not test keyboard shortcuts since Karabiner Elements is broken at the moment, which is necessary for my keyboard brightness shortcuts to work
