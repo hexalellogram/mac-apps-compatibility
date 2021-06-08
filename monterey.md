@@ -1,4 +1,4 @@
-# Mac Apps Compatibility - macOS 13.0 Big Sur
+# Mac Apps Compatibility - macOS 12.0 Monterey
 
 Note that most, if not all, compatibility assessments are my own.
 I do not take legal responsibility for any of these assessments of compatibility, nor do I guarantee that my assessments are accurate.
@@ -7,7 +7,7 @@ These applications' developers may have more updated information on this subject
 
 ## Homebrew
 
-- [x] Homebrew - works ~~but developer tools need to be installed beforehand from the Apple Developer More Downloads page instead of through `xcode-select --install`~~ As of developer beta 2, the install script at brew.sh now works. The `xcode-select --install` command is still slow if run manually, but I can’t tell if that is just slow or actually not working.
+- [x] Homebrew - installs fine (unlike last year) after `xcode-select --install`, Casks install fine
 
 ## Core Applications
 
