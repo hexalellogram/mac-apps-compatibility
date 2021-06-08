@@ -43,9 +43,9 @@ These applications' developers may have more updated information on this subject
 
 ## Other Applications
 
-- [ ] HandBrake - opens, encoding from `.mkv` works
+- [ ] HandBrake
 - [ ] Windscribe
-- [ ] Bartender - new Bartender 4 beta works
+- [ ] Bartender
 - [ ] MacTeX (CLI Only)
 - [ ] TeX Live Utility
 - [ ] Minecraft
@@ -57,10 +57,10 @@ These applications' developers may have more updated information on this subject
 - [ ] IINA
 - [ ] Notion
 - [ ] Hex Fiend (App Store version)
-- [ ] Macs Fan Control - did not test setting fan profiles as I do not have the paid version
-- [ ] MakeMKV - launches, was unable to test any ripping functionality at the moment
+- [ ] Macs Fan Control
+- [ ] MakeMKV
 - [ ] Transmission
-- [ ] Tuxera NTFS - As of Big Sur Beta 2, activation now works. Filesystem appears to function after a reboot to enable kexts (without disabling System Integrity Protection).
+- [ ] Tuxera NTFS
 - [ ] YAC Reader
 - [ ] IntelliJ IDEA
 - [ ] Logitech Camera Settings
@@ -94,7 +94,7 @@ I only tested if these installed, in most cases. Any other testing I do will be 
 - [ ] `diff-so-fancy`
 - [ ] `git`
 - [ ] `mas`
-- [ ] `neofetch` - installs and works but does not get status like memory and uptime
+- [ ] `neofetch`
 - [ ] `nmap`
 - [ ] `python`
 - [ ] `speedtest-cli`
