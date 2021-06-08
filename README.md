@@ -8,5 +8,6 @@ Each macOS version tracked in this database has the status of the apps I track i
 
 Click the link to go to the document for that specific version.
 
+- [macOS 12.0 Monterey](monterey.md)
 - [macOS 11.0 Big Sur](big-sur.md)
 - [macOS 10.15 Catalina](catalina.md)
