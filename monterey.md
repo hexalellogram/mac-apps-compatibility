@@ -11,35 +11,35 @@ These applications' developers may have more updated information on this subject
 
 ## Core Applications
 
-- [ ] Google Chrome
-- [ ] 1Password
-- [ ] Telegram (App Store version)
-- [ ] Facebook Messenger
-- [ ] Discord
-- [ ] TickTick (App Store Version)
-- [ ] Microsoft Word (App Store version)
-- [ ] Microsoft Excel (App Store version)
-- [ ] Microsoft PowerPoint (App Store version)
+- [x] Google Chrome
+- [x] 1Password
+- [x] Telegram (App Store version)
+- [x] Facebook Messenger
+- [x] Discord
+- [x] TickTick (App Store Version)
+- [x] Microsoft Word (App Store version)
+- [x] Microsoft Excel (App Store version)
+- [x] Microsoft PowerPoint (App Store version)
 - [ ] Notability (App Store)
 - [ ] Debit & Credit (App Store)
 - [ ] Visual Studio Code
 - [ ] VMware Fusion
-- [ ] Spotify
+- [x] Spotify
 - [ ] Insync
 - [x] Alfred 4 - works as far as I can tell, though Steven reported issues (I did not)
-- [ ] BetterTouchTool
+- [x] BetterTouchTool
 - [ ] Karabiner Elements
 - [ ] Logitech Options
-- [ ] Degoogled Chromium (Eloston)
-- [ ] Carbon Copy Cloner
+- [x] Degoogled Chromium (Eloston)
+- [x] Carbon Copy Cloner
 - [ ] GPG Suite
-- [ ] Amphetamine (App Store)
-- [ ] Zoom
-- [ ] Java 11 JDK
-- [ ] Dropbox
-- [ ] MEGASync
+- [x] Amphetamine (App Store)
+- [x] Zoom
+- [ ] Java 11 JDK - `brew` does not support installing bottles for MacOS 12 just yet
+- [x] Dropbox
+- [x] MEGASync
 - [ ] OneDrive (App Store version)
-- [ ] Slack
+- [x] Slack
 
 ## Other Applications
 
