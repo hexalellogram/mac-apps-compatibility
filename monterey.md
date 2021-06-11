@@ -23,22 +23,22 @@ These applications' developers may have more updated information on this subject
 - [ ] Notability (App Store)
 - [ ] Debit & Credit (App Store)
 - [ ] Visual Studio Code
-- [ ] VMware Fusion
+- [x] VMware Fusion
 - [x] Spotify
-- [ ] Insync
+- [x] Insync
 - [x] Alfred 4 - works as far as I can tell, though Steven reported issues (I did not)
 - [x] BetterTouchTool
-- [ ] Karabiner Elements
-- [ ] Logitech Options
+- [x] Karabiner Elements
+- [x] Logitech Options
 - [x] Degoogled Chromium (Eloston)
 - [x] Carbon Copy Cloner
-- [ ] GPG Suite
+- [x] GPG Suite - Mail extension is reporteddly broken but I don't use that
 - [x] Amphetamine (App Store)
 - [x] Zoom
 - [ ] Java 11 JDK - `brew` does not support installing bottles for MacOS 12 just yet
 - [x] Dropbox
 - [x] MEGASync
-- [ ] OneDrive (App Store version)
+- [x] OneDrive (App Store version)
 - [x] Slack
 
 ## Other Applications
