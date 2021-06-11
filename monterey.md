@@ -20,8 +20,8 @@ These applications' developers may have more updated information on this subject
 - [x] Microsoft Word (App Store version)
 - [x] Microsoft Excel (App Store version)
 - [x] Microsoft PowerPoint (App Store version)
-- [ ] Notability (App Store)
-- [ ] Debit & Credit (App Store)
+- [x] Notability (App Store)
+- [x] Debit & Credit (App Store)
 - [ ] Visual Studio Code
 - [x] VMware Fusion
 - [x] Spotify
