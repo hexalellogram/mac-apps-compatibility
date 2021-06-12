@@ -22,7 +22,7 @@ These applications' developers may have more updated information on this subject
 - [x] Microsoft PowerPoint (App Store version)
 - [x] Notability (App Store)
 - [x] Debit & Credit (App Store)
-- [ ] Visual Studio Code
+- [x] Visual Studio Code
 - [x] VMware Fusion
 - [x] Spotify
 - [x] Insync
@@ -35,7 +35,7 @@ These applications' developers may have more updated information on this subject
 - [x] GPG Suite - Mail extension is reporteddly broken but I don't use that
 - [x] Amphetamine (App Store)
 - [x] Zoom
-- [ ] Java 11 JDK - `brew` does not support installing bottles for MacOS 12 just yet
+- [x] Java 11 JDK - `brew` does not support installing bottles for MacOS 12 just yet
 - [x] Dropbox
 - [x] MEGASync
 - [x] OneDrive (App Store version)
@@ -43,44 +43,42 @@ These applications' developers may have more updated information on this subject
 
 ## Other Applications
 
-- [ ] HandBrake
-- [ ] Windscribe
-- [ ] Bartender
-- [ ] MacTeX (CLI Only)
-- [ ] TeX Live Utility
-- [ ] Minecraft
-- [ ] JDownloader
-- [ ] RescueTime
-- [ ] Keka
-- [ ] GIMP
-- [ ] Android File Transfer
-- [ ] IINA
-- [ ] Notion
-- [ ] Hex Fiend (App Store version)
-- [ ] Macs Fan Control
-- [ ] MakeMKV
-- [ ] Transmission
-- [ ] Tuxera NTFS
-- [ ] YAC Reader
-- [ ] IntelliJ IDEA
-- [ ] Logitech Camera Settings
-- [ ] NordVPN
-- [ ] The Unarchiver (App Store version)
-- [ ] MonitorControl
-- [ ] Skype
-- [ ] AppCleaner
-- [ ] Firefox
-- [ ] Cisco AnyConnect
-- [ ] Microsoft OneNote (App Store version)
-- [ ] Adobe Digital Editions
-- [ ] Docker
-- [ ] Ghidra
-- [ ] Microsoft Edge
-- [ ] Postman
-- [ ] Steam
-- [ ] Wireshark
-- [ ] Apple Configurator 2 (App Store)
-- [ ] iMovie (App Store)
+- [x] HandBrake
+- [x] Windscribe
+- [ ] Bartender - installs, but the features I use are broken (developer is working on fixes)
+- [x] MacTeX (CLI Only)
+- [x] TeX Live Utility
+- [x] Minecraft
+- [x] JDownloader
+- [x] RescueTime
+- [x] Keka
+- [x] GIMP
+- [x] Android File Transfer
+- [x] IINA
+- [x] Notion
+- [x] Hex Fiend (App Store version)
+- [x] Macs Fan Control
+- [ ] MakeMKV - crashed on launch but I also had no optical drives connected, so that could be why
+- [ ] Transmission - downloads not working, but this could be due to ResNet
+- [x] Tuxera NTFS
+- [x] YAC Reader
+- [x] IntelliJ IDEA
+- [ ] Logitech Camera Settings - no camera detected (the camera itself works fine, just not the app)
+- [x] NordVPN
+- [x] The Unarchiver (App Store version)
+- [x] MonitorControl
+- [x] Skype
+- [x] AppCleaner
+- [x] Firefox
+- [x] Cisco AnyConnect
+- [x] Microsoft OneNote (App Store version)
+- [x] Adobe Digital Editions
+- [x] Docker
+- [x] Microsoft Edge
+- [x] Postman
+- [x] Steam - Steam itself runs, but I did not test my games
+- [x] Wireshark
+- [x] iMovie (App Store)
 
 ## Printer Driver
 
@@ -90,15 +88,14 @@ These applications' developers may have more updated information on this subject
 
 I only tested if these installed, in most cases. Any other testing I do will be indicated.
 
-- [ ] `coreutils`
-- [ ] `diff-so-fancy`
-- [ ] `git`
-- [ ] `mas`
-- [ ] `neofetch`
-- [ ] `nmap`
-- [ ] `python`
-- [ ] `speedtest-cli`
-- [ ] `trash`
-- [ ] `tree`
-- [ ] `wget`
-- [ ] `brew-cask-upgrade` tap (`brew tap buo/cask-upgrade` for `brew cu` command)
+- [x] `coreutils`
+- [x] `diff-so-fancy`
+- [x] `git`
+- [x] `mas`
+- [x] `neofetch`
+- [x] `nmap`
+- [x] `python`
+- [x] `speedtest-cli`
+- [x] `trash`
+- [x] `wget`
+- [x] `brew-cask-upgrade` tap (`brew tap buo/cask-upgrade` for `brew cu` command)
