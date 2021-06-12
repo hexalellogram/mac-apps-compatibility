@@ -94,6 +94,7 @@ I only tested if these installed, in most cases. Any other testing I do will be 
 - [x] `mas`
 - [x] `neofetch`
 - [x] `nmap`
+- [x] `node`
 - [x] `python`
 - [x] `speedtest-cli`
 - [x] `trash`
