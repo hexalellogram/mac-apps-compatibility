@@ -15,7 +15,7 @@ These applications' developers may have more updated information on this subject
 - [x] 1Password
 - [x] Telegram (App Store version)
 - [x] Facebook Messenger
-- [x] Discord
+- [x] Discord - new audio in screen share feature does not work (relies on Rogue Amoeba ACE, works on Big Sur)
 - [x] TickTick (App Store Version)
 - [x] Microsoft Word (App Store version)
 - [x] Microsoft Excel (App Store version)
@@ -47,7 +47,7 @@ These applications' developers may have more updated information on this subject
 - [x] Windscribe
 - [ ] Bartender - installs, but the features I use are broken (developer is working on fixes)
 - [x] MacTeX (CLI Only)
-- [x] TeX Live Utility
+- [ ] TeX Live Utility - attemtping to use the Actions menu to do updates is broken and crashes the application
 - [x] Minecraft
 - [x] JDownloader
 - [x] RescueTime
@@ -59,7 +59,7 @@ These applications' developers may have more updated information on this subject
 - [x] Hex Fiend (App Store version)
 - [x] Macs Fan Control
 - [ ] MakeMKV - crashed on launch but I also had no optical drives connected, so that could be why
-- [ ] Transmission - downloads not working, but this could be due to ResNet
+- [x] Transmission
 - [x] Tuxera NTFS
 - [x] YAC Reader
 - [x] IntelliJ IDEA
