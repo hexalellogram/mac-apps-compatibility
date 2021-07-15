@@ -47,7 +47,7 @@ These applications' developers may have more updated information on this subject
 - [x] Windscribe
 - [ ] Bartender - installs, but the features I use are broken (developer is working on fixes)
 - [x] MacTeX (CLI Only)
-- [ ] TeX Live Utility - attemtping to use the Actions menu to do updates is broken and crashes the application
+- [x] TeX Live Utility - works as of Developer Beta 3
 - [x] Minecraft
 - [x] JDownloader
 - [x] RescueTime
@@ -58,7 +58,7 @@ These applications' developers may have more updated information on this subject
 - [x] Notion
 - [x] Hex Fiend (App Store version)
 - [x] Macs Fan Control
-- [ ] MakeMKV - crashed on launch but I also had no optical drives connected, so that could be why
+- [x] MakeMKV - ~~crashed on launch but I also had no optical drives connected, so that could be why~~ no longer crashes on launch as of Developer Beta 3, but I have no optical drive or discs to test with at the moment
 - [x] Transmission
 - [x] Tuxera NTFS
 - [x] YAC Reader
