@@ -26,7 +26,7 @@ These applications' developers may have more updated information on this subject
 - [x] VMware Fusion
 - [x] Spotify
 - [x] Insync
-- [x] Alfred 4 - works as far as I can tell, though Steven reported issues (I did not)
+- [x] Alfred 4
 - [x] BetterTouchTool
 - [x] Karabiner Elements
 - [x] Logitech Options
@@ -35,7 +35,7 @@ These applications' developers may have more updated information on this subject
 - [x] GPG Suite - Mail extension is reporteddly broken but I don't use that
 - [x] Amphetamine (App Store)
 - [x] Zoom
-- [x] Java 11 JDK - `brew` does not support installing bottles for MacOS 12 just yet
+- [x] Java 11 JDK
 - [x] Dropbox
 - [x] MEGASync
 - [x] OneDrive (App Store version)
